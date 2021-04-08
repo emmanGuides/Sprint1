@@ -1,5 +1,5 @@
-# Sprint1
-# YouTube Links
+# Sprint1 Links
+
 
 Sprint 1 Wireframe:  https://youtu.be/jLHTTZeiMXE
 
