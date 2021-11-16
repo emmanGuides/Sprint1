@@ -1,9 +1,8 @@
 # Sprint1 Links
 
+**NOTE** WIREFRAME and SITEMAP have been re-edited
 
-Sprint 1 Wireframe:  https://youtu.be/jLHTTZeiMXE
-
-Sprint 1 Sitemap:    https://youtu.be/7iNOmmPi_88
-
+Sprint 1 Wireframe:  
+Sprint 1 Sitemap:    
 Sprint 1 Scrum:      https://youtu.be/XUOrJ89wgxw
 
